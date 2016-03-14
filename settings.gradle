@@ -1,1 +1,1 @@
-include ':app', ':gifapplication', ':httpapplication', ':jnidemo'
+include ':app', ':drawerlayout'
